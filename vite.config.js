@@ -4,5 +4,6 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  assetsInclude: ['**/*.JPG'], // Add this line to include JPG files as assets
+  assetsInclude: ['**/*.JPG'],
+  base: '/Flores/', // Add this line, matching your repository name
 })

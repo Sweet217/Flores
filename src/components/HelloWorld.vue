@@ -31,7 +31,7 @@
     
     <div v-if="isTimeUp" class="bloomed-message">
       <h2>¡FELIZ CUMPLEAÑOS MI VIDA, MI AMOR, MI TODO</h2>
-      <h3>No se hacer flores jASDJAJSD <span class="heart">❤️</span></h3>
+      <h3>No se hacer flores jASDJAJSD, te quiero <3 <span class="heart">❤️</span></h3>
     </div>
 
     <!-- Flowers Container -->

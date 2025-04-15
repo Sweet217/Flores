@@ -1,7 +1,7 @@
 <template>
   <div class="flower-container">
     <div v-if="!isTimeUp" class="countdown-container">
-      <h2 class="title">Flores Floreciendo El dia que las mas hermosa del mundo nacio, El</h2>
+      <h2 class="title">Hubo mas flores el dia que las mas hermosa del mundo nacio, pero espero te gusten <3, El</h2>
       <h3 class="subtitle">15 de Abril, 2025</h3>
       <div class="countdown">
         <div class="countdown-item">
